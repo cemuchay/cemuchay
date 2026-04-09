@@ -15,10 +15,10 @@
 
 ---
 
-### 🏆 Achievements
+<!-- ### 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cemuchay&theme=flat&no-frame=true&margin-w=10" />
-</p>
+</p> -->
 
 ---
 
@@ -32,6 +32,7 @@
 
 ### 📊 GitHub Stats
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cemuchay&show_icons=true&locale=en" />
 </p>
@@ -39,6 +40,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cemuchay&show_icons=true&locale=en&layout=compact" />
 </p>
+
+-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemuchay" />
