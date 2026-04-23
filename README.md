@@ -33,9 +33,10 @@
 
 ---
 
-### 📊 GitHub Stats
+
 
 <!--
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cemuchay&show_icons=true&locale=en" />
 </p>
@@ -54,7 +55,7 @@
 
 ---
 
-### 🤝 Connect With Me
+<!-- ### 🤝 Connect With Me   -->
 <p align="center">
   <!-- Add your links -->
   <!-- Example:
